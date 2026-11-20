@@ -1,3 +1,11 @@
+## 2.0.4 - FlyMaker Community Fix
+
+- Fixed TUFX profile settings being duplicated and reset.
+- Removed unnecessary TUFX configuration classes from the build.
+- Fixed night-vision PostProcessLayer lifecycle management.
+- Removed obsolete TUFX utility dependencies.
+- Verified operation with and without TUFX installed.
+
 # Changelog
 
 All notable changes to KerbVisionIR are documented in this file.

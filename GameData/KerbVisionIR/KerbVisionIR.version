@@ -1,21 +1,21 @@
 {
-  "NAME": "KerbVisionIR",
-  "URL": "https://raw.githubusercontent.com/garyblu71mods/SimpleNV/restart-clean/GameData/KerbVisionIR/KerbVisionIR.version",
-  "DOWNLOAD": "https://spacedock.info/mod/4105/KerbVision%20IR",
-  "CHANGE_LOG_URL": "https://github.com/garyblu71mods/SimpleNV/blob/restart-clean/CHANGELOG.md",
-  "VERSION": {
-    "MAJOR": 2,
-    "MINOR": 0,
-    "PATCH": 3
-  },
-  "KSP_VERSION_MIN": {
-    "MAJOR": 1,
-    "MINOR": 12,
-    "PATCH": 3
-  },
-  "KSP_VERSION_MAX": {
-    "MAJOR": 1,
-    "MINOR": 12,
-    "PATCH": 99
-  }
+    "NAME":  "KerbVisionIR",
+    "URL":  "https://raw.githubusercontent.com/FlyMaker-Games/SimpleNV/main/GameData/KerbVisionIR/KerbVisionIR.version",
+    "DOWNLOAD":  "https://github.com/FlyMaker-Games/SimpleNV/releases",
+    "CHANGE_LOG_URL":  "https://github.com/FlyMaker-Games/SimpleNV/blob/main/CHANGELOG.md",
+    "VERSION":  {
+                    "MAJOR":  2,
+                    "MINOR":  0,
+                    "PATCH":  4
+                },
+    "KSP_VERSION_MIN":  {
+                            "MAJOR":  1,
+                            "MINOR":  12,
+                            "PATCH":  3
+                        },
+    "KSP_VERSION_MAX":  {
+                            "MAJOR":  1,
+                            "MINOR":  12,
+                            "PATCH":  99
+                        }
 }
